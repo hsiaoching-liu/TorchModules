@@ -11,7 +11,7 @@
     <li>efficientnet_b3: https://download.pytorch.org/models/efficientnet_b3_rwightman-cf984f9c.pth</li>
     <li>efficientnet_b4: https://download.pytorch.org/models/efficientnet_b4_rwightman-7eb33cd5.pth</li>
     <li>efficientnet_b5: https://download.pytorch.org/models/efficientnet_b5_lukemelas-b6417697.pth</li>
-    <li><li>efficientnet_b6: https://download.pytorch.org/models/efficientnet_b6_lukemelas-c76e70fd.pth</li>
+    <li>efficientnet_b6: https://download.pytorch.org/models/efficientnet_b6_lukemelas-c76e70fd.pth</li>
     <li>efficientnet_b7: https://download.pytorch.org/models/efficientnet_b7_lukemelas-dcc49843.pth</li>
   </ul>
 </details>
