@@ -1,5 +1,32 @@
 <h3>Pytorch network model backup</h3>
 
+
+
+<summary>EfficientNet</summary>
+<details>
+  <ul>
+    <li>efficientnet_b0: https://download.pytorch.org/models/efficientnet_b0_rwightman-3dd342df.pth</li>
+    <li>efficientnet_b1: https://download.pytorch.org/models/efficientnet_b1_rwightman-533bc792.pth</li>
+    <li>efficientnet_b2: https://download.pytorch.org/models/efficientnet_b2_rwightman-bcdf34b7.pth</li>
+    <li>efficientnet_b3: https://download.pytorch.org/models/efficientnet_b3_rwightman-cf984f9c.pth</li>
+    <li>efficientnet_b4: https://download.pytorch.org/models/efficientnet_b4_rwightman-7eb33cd5.pth</li>
+    <li>efficientnet_b5: https://download.pytorch.org/models/efficientnet_b5_lukemelas-b6417697.pth</li>
+    <li><li>efficientnet_b6: https://download.pytorch.org/models/efficientnet_b6_lukemelas-c76e70fd.pth</li>
+    <li>efficientnet_b7: https://download.pytorch.org/models/efficientnet_b7_lukemelas-dcc49843.pth</li>
+  </ul>
+</details>
+
+<summary>DenseNet</summary>
+<details>
+  <ul>
+    <li>densenet121: 'https://download.pytorch.org/models/densenet121-a639ec97.pth</li>
+    <li>densenet169: 'https://download.pytorch.org/models/densenet169-b2777c0a.pth</li>
+    <li>densenet201: 'https://download.pytorch.org/models/densenet201-c1103571.pth</li>
+    <li>densenet161: 'https://download.pytorch.org/models/densenet161-8d451a50.pth</li>
+  </ul>
+</details>
+
+
 <summary>ResNet</summary>
 <details>
   <ul>
