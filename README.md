@@ -1,7 +1,7 @@
 Pytorch network model backup
 
 <summary>ResNet</summary>
-</details>
+<details>
 - resnet18_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet18_ibn_a-2f571257.pth
 - resnet34_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet34_ibn_a-94bc1577.pth
 - resnet50_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet50_ibn_a-d9d0bb7b.pth
