@@ -1,5 +1,7 @@
 Pytorch network model backup
 
+<summary>ResNet</summary>
+</details>
 - resnet18_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet18_ibn_a-2f571257.pth
 - resnet34_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet34_ibn_a-94bc1577.pth
 - resnet50_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet50_ibn_a-d9d0bb7b.pth
@@ -16,3 +18,4 @@ Pytorch network model backup
 - resnext101_32x8d: 'https://download.pytorch.org/models/resnext101_32x8d-8ba56ff5.pth
 - wide_resnet50_2: 'https://download.pytorch.org/models/wide_resnet50_2-95faca4d.pth
 - wide_resnet101_2: 'https://download.pytorch.org/models/wide_resnet101_2-32ee1156.pth
+</details>
