@@ -22,3 +22,17 @@
     <li>wide_resnet101_2: 'https://download.pytorch.org/models/wide_resnet101_2-32ee1156.pth</li>
     </ul>
 </details>
+
+<summary>VGG-Net</summary>
+<details>
+  <ul>
+    <li>vgg11: https://download.pytorch.org/models/vgg11-8a719046.pth</li>
+    <li>vgg13: https://download.pytorch.org/models/vgg13-19584684.pth</li>
+    <li>vgg16: https://download.pytorch.org/models/vgg16-397923af.pth</li>
+    <li>vgg19: https://download.pytorch.org/models/vgg19-dcbb9e9d.pth</li>
+    <li>vgg11_bn: https://download.pytorch.org/models/vgg11_bn-6002323d.pth</li>
+    <li>vgg13_bn: https://download.pytorch.org/models/vgg13_bn-abd245e5.pth</li>
+    <li>vgg16_bn: https://download.pytorch.org/models/vgg16_bn-6c64b313.pth</li>
+    <li>vgg19_bn: https://download.pytorch.org/models/vgg19_bn-c79401a0.pth</li>
+    </ul>
+</details>
