@@ -1,8 +1,9 @@
-<h3>Pytorch network model backup</h3>
+<h2>Pytorch network model backup</h2>
 
 
+---
 
-<summary>EfficientNet</summary>
+<summary><h3>EfficientNet</h3></summary>
 <details>
   <ul>
     <li>efficientnet_b0: https://download.pytorch.org/models/efficientnet_b0_rwightman-3dd342df.pth</li>
@@ -16,7 +17,7 @@
   </ul>
 </details>
 
-<summary>DenseNet</summary>
+<summary><h3>DenseNet</h3></summary>
 <details>
   <ul>
     <li>densenet121: 'https://download.pytorch.org/models/densenet121-a639ec97.pth</li>
@@ -27,7 +28,7 @@
 </details>
 
 
-<summary>ResNet</summary>
+<summary><h3>ResNet</h3></summary>
 <details>
   <ul>
     <li>resnet18_ibn_a: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet18_ibn_a-2f571257.pth</li>
@@ -50,7 +51,7 @@
     </ul>
 </details>
 
-<summary>VGG-Net</summary>
+<summary><h3>VGG-Net</h3></summary>
 <details>
   <ul>
     <li>vgg11: https://download.pytorch.org/models/vgg11-8a719046.pth</li>
