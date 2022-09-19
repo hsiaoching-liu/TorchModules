@@ -20,10 +20,10 @@
 <summary><h3>DenseNet</h3></summary>
 <details>
   <ul>
-    <li>densenet121: 'https://download.pytorch.org/models/densenet121-a639ec97.pth</li>
-    <li>densenet169: 'https://download.pytorch.org/models/densenet169-b2777c0a.pth</li>
-    <li>densenet201: 'https://download.pytorch.org/models/densenet201-c1103571.pth</li>
-    <li>densenet161: 'https://download.pytorch.org/models/densenet161-8d451a50.pth</li>
+    <li>densenet121: https://download.pytorch.org/models/densenet121-a639ec97.pth</li>
+    <li>densenet169: https://download.pytorch.org/models/densenet169-b2777c0a.pth</li>
+    <li>densenet201: https://download.pytorch.org/models/densenet201-c1103571.pth</li>
+    <li>densenet161: https://download.pytorch.org/models/densenet161-8d451a50.pth</li>
   </ul>
 </details>
 
@@ -41,13 +41,13 @@
     <li>resnet50_ibn_b: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet50_ibn_b-9ca61e85.pth</li>
     <li>resnet101_ibn_b: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet101_ibn_b-c55f6dba.pth</li>
     <li>resnet18: https://download.pytorch.org/models/resnet18-f37072fd.pth</li>
-    <li>resnet50: 'https://download.pytorch.org/models/resnet50-0676ba61.pth</li>
-    <li>resnet101: 'https://download.pytorch.org/models/resnet101-63fe2227.pth</li>
-    <li>resnet152: 'https://download.pytorch.org/models/resnet152-394f9c45.pth</li>
-    <li>resnext50_32x4d: 'https://download.pytorch.org/models/resnext50_32x4d-7cdf4587.pth</li>
-    <li>resnext101_32x8d: 'https://download.pytorch.org/models/resnext101_32x8d-8ba56ff5.pth</li>
-    <li>wide_resnet50_2: 'https://download.pytorch.org/models/wide_resnet50_2-95faca4d.pth</li>
-    <li>wide_resnet101_2: 'https://download.pytorch.org/models/wide_resnet101_2-32ee1156.pth</li>
+    <li>resnet50: https://download.pytorch.org/models/resnet50-0676ba61.pth</li>
+    <li>resnet101: https://download.pytorch.org/models/resnet101-63fe2227.pth</li>
+    <li>resnet152: https://download.pytorch.org/models/resnet152-394f9c45.pth</li>
+    <li>resnext50_32x4d: https://download.pytorch.org/models/resnext50_32x4d-7cdf4587.pth</li>
+    <li>resnext101_32x8d: https://download.pytorch.org/models/resnext101_32x8d-8ba56ff5.pth</li>
+    <li>wide_resnet50_2: https://download.pytorch.org/models/wide_resnet50_2-95faca4d.pth</li>
+    <li>wide_resnet101_2: https://download.pytorch.org/models/wide_resnet101_2-32ee1156.pth</li>
     </ul>
 </details>
 
